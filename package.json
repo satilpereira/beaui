@@ -1,6 +1,6 @@
 {
-  "name": "@satil/beaui",
-  "version": "1.0.0",
+  "name": "@satilpereira/beaui",
+  "version": "0.0.1",
   "description": "Beaux composants UI",
   "main": "src/index.ts",
   "files": [
